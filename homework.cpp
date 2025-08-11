@@ -39,7 +39,7 @@ int main() {
         float tong_tien = 15 + ((km-1)*13.5);
         std::cout << "so tien phai tra cho " << km << " la " << tong_tien << "000vnđ" << "\n";
     }
-    
+    hello everyone
     
     
     
